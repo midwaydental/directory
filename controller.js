@@ -12,7 +12,7 @@ $scope.fname = '';
     $scope.list = null;
 
 
-    $http.get('directory.JSON').success(function (response) {
+    $http.get('directory/directory.JSON').success(function (response) {
        $scope.list = response;
 
        console.log($scope.list);
