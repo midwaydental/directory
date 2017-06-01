@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="midwaydental">
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive Directory</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="./style.css">
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.js"></script>
+
+
+    <script src="controller.js"></script>
+
+
+
+</head>
+<body ng-controller = "RecipeController">
+
+<div align="center" style="margin-top: 30px;"><img src="" /></div>
+
+
+<!--
+
+<div class="cards" >
+
+    <div ng-repeat="item in list | filter: find | orderBy: photoOrder">
+        <div class="flip3D">
+            <div class="back">
+                <h4 class="flickr-container-row-photo-header">Branch: {{item.BRANCH}} </h4>
+                <br/>
+                <h5 class="flickr-container-row-photo-header">Email:: {{item.EMAIL}} </h5>
+                <h5 class="flickr-container-row-photo-header">Contact: {{item.NUMBER}} </h5>
+                <h5 class="flickr-container-row-photo-header"> {{item.DUTIES}} </h5>
+            </div>
+            <img class ="front" ng-src="https://farm{{photo.farm}}.staticflickr.com/{{photo.server}}/{{photo.id}}_{{photo.secret}}.jpg" alt="{{photo.title}}">
+        </div>
+       <p class="movie_name"> {{item.NAME}}</p>
+        <p class="movie_name"> {{item.POSITION}}</p>
+    </div>
+</div>
+
+
+-->
+
+<br/><br/><br/>
+<div >
+    <div style="height: 30%">
+
+        <!--Search bar with model find-->
+        <input placeholder="Search" autofocus ng-model="find" style="width: 30%; height: 30px; margin-left: 7%">
+    </div>
+
+    <select class="form-control" ng-model="photoOrder" style="width: 15%; margin-left: 7%">
+        <option value="NAME">Name (A-Z)</option>
+        <option value="-NAME">Name (Z-A)</option>
+    </select>
+</div>
+
+
+ <div class="cards" >
+
+    <div class="con" ng-init="propertyName = null; reverse = false" ng-repeat = "item in list | filter:find | orderBy:photoOrder">
+        <div class="flip3D">
+            <div class="back">
+                <p class="movie_name"> Branch: {{item.BRANCH}}</p>
+                <p class="movie_name"> Email: {{item.EMAIL}}</p>
+                <p class="movie_name"> Contact: {{item.NUMBER}} </p>
+                <p class="movie_name">  {{item.DUTIES}} </p>
+            <!--    <a type="button" href="http://www.imdb.com/title/{{recipe.imdbID}}" class="btn btn-primary" >Go To IMDB</a>
+                <button class="btn btn-primary" ng-click="open(recipe)">Flix In</button>  -->
+            </div>
+            <div class="front" style="content:url({{recipe.poster}})">Box 1 - Front</div>
+        </div>
+
+        <p class="bottom_text"> {{item.NAME}}</p>
+        <p class="bottom_text"> {{item.POSITION}}</p>
+
+    </div>
+
+
+
+<div class="plate">
+    <p class="script"><span>Thanks,</span></p>
+    <p class="shadow text2">Midway</p>
+    <p class="shadow text3">Dental</p>
+    <p class="script"><span>☺</span></p>
+</div>
+</body>
+</html>
+
+
