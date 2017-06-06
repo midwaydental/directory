@@ -19,6 +19,7 @@ $scope.fname = '';
 
     });
 
+    $scope.names = ["","Detroit", "Indianapolis", "Columbus", "Chicago", "Grand Rapids", "Lakeville"];
 
     $scope.propertyName = '';
     $scope.reverse = true;

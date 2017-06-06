@@ -14,36 +14,11 @@
 
     <script src="controller.js"></script>
 
-
-
 </head>
 <body ng-controller = "RecipeController">
 
 <div align="center" style="margin-top: 30px;"><img src="" /></div>
 
-
-<!--
-
-<div class="cards" >
-
-    <div ng-repeat="item in list | filter: find | orderBy: photoOrder">
-        <div class="flip3D">
-            <div class="back">
-                <h4 class="flickr-container-row-photo-header">Branch: {{item.BRANCH}} </h4>
-                <br/>
-                <h5 class="flickr-container-row-photo-header">Email:: {{item.EMAIL}} </h5>
-                <h5 class="flickr-container-row-photo-header">Contact: {{item.NUMBER}} </h5>
-                <h5 class="flickr-container-row-photo-header"> {{item.DUTIES}} </h5>
-            </div>
-            <img class ="front" ng-src="https://farm{{photo.farm}}.staticflickr.com/{{photo.server}}/{{photo.id}}_{{photo.secret}}.jpg" alt="{{photo.title}}">
-        </div>
-       <p class="movie_name"> {{item.NAME}}</p>
-        <p class="movie_name"> {{item.POSITION}}</p>
-    </div>
-</div>
-
-
--->
 
 <br/><br/><br/>
 <div >
@@ -52,17 +27,23 @@
         <!--Search bar with model find-->
         <input placeholder="Search" autofocus ng-model="find" style="width: 43%; height: 50px; margin-left: 7%">
     </div>
-
+    <br/>
     <select class="form-control" ng-model="photoOrder" style="width: 35%; margin-left: 7%">
         <option value="NAME">Name (A-Z)</option>
         <option value="-NAME">Name (Z-A)</option>
     </select>
+
+    <br/>
+    <select ng-model="selectedName" ng-options="item for item in names" style="width: 15%; margin-left: 7%">
+    </select>
+
 </div>
+
 
 
  <div class="cards" >
 
-    <div class="con" ng-init="propertyName = null; reverse = false" ng-repeat = "item in list | filter:find | orderBy:photoOrder">
+    <div class="con" ng-init="propertyName = null; reverse = false" ng-repeat = "item in list | filter:find | orderBy:photoOrder | filter:selectedName">
         <div class="flip3D">
             <div class="back">
                 <p class="movie_name"> Branch: {{item.BRANCH}}</p>
@@ -80,7 +61,7 @@
 
     </div>
 
-
+</div>
 
 <div class="plate">
     <p class="script"><span>Thanks,</span></p>
