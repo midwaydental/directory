@@ -16,6 +16,8 @@ body{
     background:skyblue; width:240px; height:210px; border-radius: 7px;
     backface-visibility: hidden;
     transition: transform .5s linear 0s;
+    background-position: top center;
+    background-size: 230px 210px;
 }
 .flip3D > .back{
     position:absolute;

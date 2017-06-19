@@ -1,1010 +1,128 @@
-[
-  {
-    "NAME": "Abraham Azar",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "abeazar96@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Adeline Wieczorek",
-    "NUMBER": "734-838-1093",
-    "EMAIL": "awieczorek@midwaydental.com",
-    "POSITION": "Customer Service (Detroit)",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Alex Lopez",
-    "NUMBER": "248-756-2986",
-    "EMAIL": "alopez@midwaydental.com",
-    "POSITION": "Technology Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Alex Rodriguez",
-    "NUMBER": "317-518-1215",
-    "EMAIL": "alexr@midwaydental.com",
-    "POSITION": "Indianapolis Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Ali Al-Shimmary",
-    "NUMBER": "734-838-1094",
-    "EMAIL": "aal-shimmary@midwaydental.com",
-    "POSITION": "Accounting Data Entry",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Allan Thomas",
-    "NUMBER": "614-348-3990",
-    "EMAIL": "athomas@midwaydental.com",
-    "POSITION": "Columbus Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Andrea Collins",
-    "NUMBER": "248-919-3025",
-    "EMAIL": "acollins@midwaydental.com",
-    "POSITION": "Customer Service (Detroit)",
-    "DUTIES": "Bulk Order Processing, Bulk Order Reports, Customer Service/Sales Rep Assistance",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Angela Lyon",
-    "NUMBER": "231-392-9775",
-    "EMAIL": "alyon@midwaydental.com",
-    "POSITION": "Grand Rapids Sales",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Antoinette Stewart",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "antoinettestewart973@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Betsy Lee",
-    "NUMBER": "248-388-4980",
-    "EMAIL": "blee@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Bill Smith",
-    "NUMBER": "616-293-1460",
-    "EMAIL": "bsmith@midwaydental.com",
-    "POSITION": "Grand Rapids Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Bob Johnson",
-    "NUMBER": "248-915-2969",
-    "EMAIL": "rjohnson@midwaydental.com",
-    "POSITION": "Grand Rapids Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Bob Zeller",
-    "NUMBER": "815-978-8041",
-    "EMAIL": "bzeller@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Bradley Sidelko",
-    "NUMBER": "586-676-7195",
-    "EMAIL": "bsidelko@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Brian Buck",
-    "NUMBER": "614-374-1600",
-    "EMAIL": "bbuck@midwaydental.com",
-    "POSITION": "Columbus Sales",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Bruce Henry",
-    "NUMBER": "248-912-2201",
-    "EMAIL": "bhenry@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Bryon Seelbach",
-    "NUMBER": "248-924-8660",
-    "EMAIL": "bseelbach@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Cameron Bassett",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "cbassett3429@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Carolyn Schmidt",
-    "NUMBER": "614-496-8222",
-    "EMAIL": "cschmidt@midwaydental.com",
-    "POSITION": "Columbus Sales",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Carrie Bott",
-    "NUMBER": "616-292-2189",
-    "EMAIL": "cbott@midwaydental.com",
-    "POSITION": "Grand Rapids Sales",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Carrie Garcia",
-    "NUMBER": "248-919-3017",
-    "EMAIL": "cgarcia@midwaydental.com",
-    "POSITION": "Service & Parts Coordinator (Detroit)",
-    "DUTIES": "Parts Purchasing - Detroit, Service Coordinator - Detroit, Small Equipment & Hand Piece Repairs - Detroit",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Catherine Brandt",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "cathytallent@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Chetas Mehta",
-    "NUMBER": "248-919-3010",
-    "EMAIL": "cmehta@midwaydental.com",
-    "POSITION": "Software Developer",
-    "DUTIES": "Custom reports, OneDrive and Outlook Groups, Sales Force Enhancement and Issues, Training Material Production",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Chris Sanford",
-    "NUMBER": "614-332-4752",
-    "EMAIL": "csanford@midwaydental.com",
-    "POSITION": "Columbus Sales",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Cierra Pappadakis",
-    "NUMBER": "",
-    "EMAIL": "cpappadakis@midwaydental.com",
-    "POSITION": "Executive Assistant",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Cindy Duncan",
-    "NUMBER": "810-397-5333",
-    "EMAIL": "cduncan@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Crystal Manns",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "mannscrystal42@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Curtis Ferber",
-    "NUMBER": "231-620-0199",
-    "EMAIL": "cferber@midwaydental.com",
-    "POSITION": "Grand Rapids Sales",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Dan Joyce",
-    "NUMBER": "708-692-4150",
-    "EMAIL": "djoyce@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Darlisa Burrell",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "darlisaburrell@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "David Yoakim",
-    "NUMBER": "224-848-2988",
-    "EMAIL": "dyoakim@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Dawn Metcalf",
-    "NUMBER": "574-298-7982/ Office number: 248-919-3026",
-    "EMAIL": "dawn@midwaydental.com",
-    "POSITION": "Lakeville Sales Manager",
-    "DUTIES": "Event Sponsorships/Donations",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Demari Walker",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "demariwalker@ymail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Dorrell Bonner",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "dorrell.bonner@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Doug Broughman",
-    "NUMBER": "734-838-1090",
-    "EMAIL": "dbroughman@midwaydental.com",
-    "POSITION": "Director of Operations",
-    "DUTIES": "General Operations",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Dylan Wilson",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "dylan.wilson@wayne.edu",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Evan Pieczenik",
-    "NUMBER": "248-798-3971",
-    "EMAIL": "epieczenik@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Everett Drake",
-    "NUMBER": "317-416-1795",
-    "EMAIL": "edrake@midwaydental.com",
-    "POSITION": "Indianapolis Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Gary Sanok",
-    "NUMBER": "630-509-4047",
-    "EMAIL": "gsanok@midwaydental.com",
-    "POSITION": "Branch Operations Manager (Chicago)",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Guy Joseph",
-    "NUMBER": "614-980-8008",
-    "EMAIL": "gjoseph@midwaydental.com",
-    "POSITION": "Columbus Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Holli McNulty",
-    "NUMBER": "616-871-1220",
-    "EMAIL": "hmcnulty@midwaydental.com",
-    "POSITION": "Office Administrator (Grand Rapids)",
-    "DUTIES": "Parts Purchasing - Grand Rapids, Service Coordinator - Detroit, Service Coordinator - Grand Rapids, Small Equipment & Hand Piece Repairs - Grand Rapids",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "James Joyce",
-    "NUMBER": "708-309-0527",
-    "EMAIL": "jjoyce@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Janice O'Connor",
-    "NUMBER": "248-919-3029",
-    "EMAIL": "janice@midwaydental.com",
-    "POSITION": "Pricing Manager",
-    "DUTIES": "Item Maintenance and Pricing, New Item Setup",
-    "BRANCH": ""
-  },
-  {
-    "NAME": "Jason Kwiatkowski",
-    "NUMBER": "574-340-1768",
-    "EMAIL": "jason@midwaydental.com",
-    "POSITION": "Indianapolis Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Jeff Abigt",
-    "NUMBER": "574-532-4775",
-    "EMAIL": "jeff@midwaydental.com",
-    "POSITION": "Lakeville Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Jeff Downer",
-    "NUMBER": "269-330-6421",
-    "EMAIL": "jeffd@midwaydental.com",
-    "POSITION": "Grand Rapids Sales",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Jeff Sieg",
-    "NUMBER": "574-532-5198",
-    "EMAIL": "jeffsieg@mdiwaydental.com",
-    "POSITION": "Lakeville Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Jennifer Woods",
-    "NUMBER": "248-919-3027",
-    "EMAIL": "jennifer@midwaydental.com",
-    "POSITION": "Equipment Coordinator",
-    "DUTIES": "Equipment Order Processing, Equipment Purchasing",
-    "BRANCH": ""
-  },
-  {
-    "NAME": "Jermaine Wilson",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "jermainewilson11@hotmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Jeromy Buehl",
-    "NUMBER": "614-318-5800",
-    "EMAIL": "jbuehl@midwaydental.com",
-    "POSITION": "Columbus Sales",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Jessica Prainito",
-    "NUMBER": "",
-    "EMAIL": "jprainito@midwaydental.com",
-    "POSITION": "Graphic Design/Marketing",
-    "DUTIES": "Marketing Material Production and Printing",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Jessica Yelda",
-    "NUMBER": "248-919-3011",
-    "EMAIL": "jyelda@midwaydental.com",
-    "POSITION": "Human Resources",
-    "DUTIES": "401k Questions, Health Insurance/Benefits Questions, Payroll Questions",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Jim Curd",
-    "NUMBER": "614-204-7119",
-    "EMAIL": "jcurd@midwaydental.com",
-    "POSITION": "Columbus Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Jim Todd",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "jtodd@midwaydental.com",
-    "POSITION": "Warehouse Manager",
-    "DUTIES": "Incoming/Outgoing Shipping Questions (Receiving),",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Joann Cacciatore",
-    "NUMBER": "630-802-7666",
-    "EMAIL": "jcacciatore@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Joe Hannawa",
-    "NUMBER": "248-231-3993",
-    "EMAIL": "jhannawa@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Joe Ibarra",
-    "NUMBER": "248-703-1938",
-    "EMAIL": "jibarra@midwaydental.com",
-    "POSITION": "Detroit IT",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Joey Pieczenik",
-    "NUMBER": "",
-    "EMAIL": "jpieczenik@midwaydental.com",
-    "POSITION": "Office Assistant (Detroit)",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "John Martin",
-    "NUMBER": "260-410-0555",
-    "EMAIL": "jmartin@midwaydental.com",
-    "POSITION": "Lakeville Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "John Saltijeral",
-    "NUMBER": "773-571-0341",
-    "EMAIL": "jsaltijeral@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Justin Wolff",
-    "NUMBER": "574-304-6461",
-    "EMAIL": "justinw@midwaydental.com",
-    "POSITION": "Lakeville Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Karen Dillingham",
-    "NUMBER": "248-919-3815",
-    "EMAIL": "kdillingham@midwaydental.com",
-    "POSITION": "Controller",
-    "DUTIES": "Customer Promotions, Non-Inventory Purchase Requests",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Kathy Towns",
-    "NUMBER": "248-919-3015",
-    "EMAIL": "ktowns@midwaydental.com",
-    "POSITION": "Customer Service (Detroit)",
-    "DUTIES": "Customer Service/Sales Rep Assistance, Issue Customer, Return Labels, Item Maintenance and Pricing, New Item Setup, Receive and Distribute Faxes",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Keith Shilling",
-    "NUMBER": "248-756-1734",
-    "EMAIL": "kshilling@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Kelly Nicholas",
-    "NUMBER": "248-919-3021",
-    "EMAIL": "knicholas@midwaydental.com",
-    "POSITION": "Purchasing/Customer Service Manager",
-    "DUTIES": "Customer Service/Sales Rep Assistance, Inventory Purchasing, New Vendor Setup",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Kevin Morikawa",
-    "NUMBER": "313-495-1956",
-    "EMAIL": "kmorikawa@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Kim Anderson",
-    "NUMBER": "847-219-5911",
-    "EMAIL": "kanderson@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Kim Mathes",
-    "NUMBER": "248-919-4143",
-    "EMAIL": "kim@midwaydental.com",
-    "POSITION": "Service & Parts Coordinator (Lakeville)",
-    "DUTIES": "Parts Purchasing - Indianapolis/Lakeville, Service Coordinator - Indianapolis/Lakeville, Small Equipment & Hand Piece Repairs - Indianapolis/Lakeville",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Kim Myers",
-    "NUMBER": "574-248-8003",
-    "EMAIL": "kimm@midwaydental.com",
-    "POSITION": "Lakeville Sales",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Kurt McNulty",
-    "NUMBER": "616-262-8008",
-    "EMAIL": "kmcnulty@midwaydental.com",
-    "POSITION": "Grand Rapids Sales",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Kyle Fairfield",
-    "NUMBER": "231-670-3356",
-    "EMAIL": "kfairfield@midwaydental.com",
-    "POSITION": "Grand Rapids Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Kyle Hamm",
-    "NUMBER": "312-597-0938",
-    "EMAIL": "khamm@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Lisa Bassett",
-    "NUMBER": "734-838-1092",
-    "EMAIL": "lbassett@midwaydental.com",
-    "POSITION": "Customer Service (Detroit)",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Lois Wise",
-    "NUMBER": "630-509-4044",
-    "EMAIL": "lwise@midwaydental.com",
-    "POSITION": "Customer Service (Chicago)",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Luther Mullins",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "lumull59@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Malerie Samona",
-    "NUMBER": "248-919-3024",
-    "EMAIL": "msamona@midwaydental.com",
-    "POSITION": "Accounting",
-    "DUTIES": "Expense Reports, Mileage Logs",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Maliek Davis",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "maliekjdavis@aol.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Mark Debono",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "majormarkman@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Mark Lockhart",
-    "NUMBER": "248-919-3010",
-    "EMAIL": "mlockhart@midwaydental.com",
-    "POSITION": "Software & Internal IT",
-    "DUTIES": "Computer/Peripheral Support and Procurement, Custom reports, Email Issues and Administration, P21 Issues and Administration, Website Support",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Mary Lou Cramer",
-    "NUMBER": "248-919-3013",
-    "EMAIL": "mcramer@midwaydental.com",
-    "POSITION": "Accounts Receivable",
-    "DUTIES": "New Customer Setup, Customer Payments/Arrangements",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Matt Oblak",
-    "NUMBER": "248-880-9068",
-    "EMAIL": "moblak@midwaydental.com",
-    "POSITION": "Detroit Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Matthew Kassab",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "mkassab88@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Matthew Michalski",
-    "NUMBER": "312-597-0896",
-    "EMAIL": "mmichalski@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Michelle Jazvac",
-    "NUMBER": "248-919-3019",
-    "EMAIL": "mjazvac@midwaydental.com",
-    "POSITION": "Purchasing",
-    "DUTIES": "Inventory Discrepancies, Inventory Stocking Requests, Stock Purchasing",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Miranda Gatie",
-    "NUMBER": "248-919-3014",
-    "EMAIL": "accounting@midwaydental.com",
-    "POSITION": "VP of Administration",
-    "DUTIES": "Customer Rebates",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Morgan Egnater",
-    "NUMBER": "248-919-3016",
-    "EMAIL": "megnater@midwaydental.com",
-    "POSITION": "Customer Service Supervisor (Detroit)",
-    "DUTIES": "Buy-Get Reward Setup and Processing, Customer, Service/Sales Rep Assistance, Issue Customer Return Labels, Item Maintenance and Pricing, New Item Setup, Receive and Distribute Faxes, Office Supply Ordersv",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Nathan Courtney",
-    "NUMBER": "317-397-3612",
-    "EMAIL": "nathanc@midwaydental.com",
-    "POSITION": "Indianapolis Branch Manager",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Nick Paul",
-    "NUMBER": "630-673-0539",
-    "EMAIL": "npaul@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Nita Wolcott",
-    "NUMBER": "248-533-4835",
-    "EMAIL": "nwolcott@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Patrick Blanc",
-    "NUMBER": "734-838-1091",
-    "EMAIL": "pblanc@midwaydental.com",
-    "POSITION": "VP of Marketing & Special Markets",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Patrick Sherefkin",
-    "NUMBER": "248-919-3087",
-    "EMAIL": "psherefkin@midwaydental.com",
-    "POSITION": "Website & Data Entry",
-    "DUTIES": "Customer Contract Pricing, Item Maintenance and Pricing\nNew Item Setup, Price Comparisons/Customer Converisions\nHardware/Software Support, Reorder Tags, Sales Data Analysis, Vendor Sales Reporting, Website Shopper Approval and Maintenance",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Paul Currier",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "pcurrier@midwaydental.com",
-    "POSITION": "Warehouse Manager",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Rachel Vandarwarker",
-    "NUMBER": "315-939-0261",
-    "EMAIL": "rvandarwarker@midwaydental.com",
-    "POSITION": "Director of Sales Administration (Chicago)",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Randy DeMeester",
-    "NUMBER": "574-304-7400",
-    "EMAIL": "randyd@midwaydental.com",
-    "POSITION": "Lakeville Sales",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Randy Sanford",
-    "NUMBER": "330-618-1587",
-    "EMAIL": "rsanford@midwaydental.com",
-    "POSITION": "Columbus Sales",
-    "DUTIES": "",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Randy Smith",
-    "NUMBER": "616-401-8537",
-    "EMAIL": "rsmith@midwaydental.com",
-    "POSITION": "Michigan Service Manager",
-    "DUTIES": "",
-    "BRANCH": "Michigan"
-  },
-  {
-    "NAME": "Rashaun Little",
-    "NUMBER": "248-919-3012",
-    "EMAIL": "rlittle@midwaydental.com",
-    "POSITION": "Purchasing Assistant",
-    "DUTIES": "Back Order Processing and Follow Up",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Ray Khami",
-    "NUMBER": "248-826-0259",
-    "EMAIL": "rkhami@refurbdental.com",
-    "POSITION": "Detroit Used Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Reshard Stewart",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "stewart.rashard97@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Richard Landeck",
-    "NUMBER": "630-341-4549",
-    "EMAIL": "rlandeck@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Rick Sidelko",
-    "NUMBER": "586-817-4298",
-    "EMAIL": "rsidelko@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Rita Brisentine",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "rbrisentine@hotmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Roberto Lopez",
-    "NUMBER": "248-219-7065",
-    "EMAIL": "rlopez@midwaydental.com",
-    "POSITION": "Detroit Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Roger Shell",
-    "NUMBER": "312-597-0893",
-    "EMAIL": "rshell@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Ryan Clery",
-    "NUMBER": "847-404-5375",
-    "EMAIL": "rclery@midwaydental.com",
-    "POSITION": "Chicago Equipment Rep.",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Sandy Jones",
-    "NUMBER": "312-288-1630",
-    "EMAIL": "sjones@midwaydental.com",
-    "POSITION": "Chicago Sales",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Sergio Cuevas",
-    "NUMBER": "773-573-3591",
-    "EMAIL": "scuevas@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Sharon Serowski",
-    "NUMBER": "630-509-4046",
-    "EMAIL": "sserowski@midwaydental.com",
-    "POSITION": "Service & Parts Coordinator (Chicago)",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Sherry Maciejewski",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "sherrymaciejewski@yahoo.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Simon Battle",
-    "NUMBER": "248-755-5472",
-    "EMAIL": "sbattle@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Steve (Jr) Poma",
-    "NUMBER": "248-444-7323",
-    "EMAIL": "spoma@midwaydental.com",
-    "POSITION": "Detroit Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Steve Mansour",
-    "NUMBER": "313-574-9537",
-    "EMAIL": "smansour@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Steve Zelsdorf",
-    "NUMBER": "630-509-4045",
-    "EMAIL": "szelsdorf@midwaydental.com",
-    "POSITION": "Customer Service (Chicago)",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Steven Kizy",
-    "NUMBER": "586-894-3518",
-    "EMAIL": "skizy@midwaydental.com",
-    "POSITION": "General Manager & Detroit Sales Manager",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Stuart Pieczenik",
-    "NUMBER": "248-225-9430",
-    "EMAIL": "spieczenik@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Taylor Bowser",
-    "NUMBER": "765-437-8383",
-    "EMAIL": "taylor@midwaydental.com",
-    "POSITION": "Indianapolis Sales",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Teresa Mullins",
-    "NUMBER": "313-570-1795",
-    "EMAIL": "tmullins@midwaydental.com",
-    "POSITION": "Detroit Sales",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Terry Bouck",
-    "NUMBER": "231-383-0308",
-    "EMAIL": "tbouck@midwaydental.com",
-    "POSITION": "Grand Rapids EQ Spec./Service Technician",
-    "DUTIES": "",
-    "BRANCH": "Grand Rapids"
-  },
-  {
-    "NAME": "Tim Compton",
-    "NUMBER": "614-681-1141",
-    "EMAIL": "tcompton@midwaydental.com",
-    "POSITION": "Office Administrator (Columbus)",
-    "DUTIES": "Parts Purchasing - Columbus, Service Coordinator - Columbus, Small Equipment & Hand Piece Repairs - Columbus",
-    "BRANCH": "Columbus"
-  },
-  {
-    "NAME": "Tom Kelm",
-    "NUMBER": "815-378-2173",
-    "EMAIL": "tom@midwaydental.com",
-    "POSITION": "Illinois Sales",
-    "DUTIES": "",
-    "BRANCH": "Illinois"
-  },
-  {
-    "NAME": "Tom Kingseed",
-    "NUMBER": "317-625-8876",
-    "EMAIL": "tomk@midwaydental.com",
-    "POSITION": "Indianapolis Sales",
-    "DUTIES": "",
-    "BRANCH": "Indianapolis"
-  },
-  {
-    "NAME": "Tommy Chirillo",
-    "NUMBER": "312-597-0899",
-    "EMAIL": "tchirillo@midwaydental.com",
-    "POSITION": "Chicago Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Chicago"
-  },
-  {
-    "NAME": "Tony Cornejo",
-    "NUMBER": "219-484-1293",
-    "EMAIL": "tony@midwaydental.com",
-    "POSITION": "Lakeville Sales",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "Wes Seaman",
-    "NUMBER": "574-261-9219",
-    "EMAIL": "wes@midwaydental.com",
-    "POSITION": "Lakeville Service Tech",
-    "DUTIES": "",
-    "BRANCH": "Lakeville"
-  },
-  {
-    "NAME": "William Brinson",
-    "NUMBER": "x3018/x3020",
-    "EMAIL": "williambrinson68@gmail.com",
-    "POSITION": "Warehouse",
-    "DUTIES": "",
-    "BRANCH": "Detroit"
-  },
-  {
-    "NAME": "Yesenia Holmes",
-    "NUMBER": "248-919-3028",
-    "EMAIL": "yesenia@midwaydental.com",
-    "POSITION": "Customer Service & Purchasing (Lakeville)",
-    "DUTIES": "Expedited Purchasing, Incoming Shipping Questions (Inventory)",
-    "BRANCH": "Lakeville"
-  }
-]
+[{"NAME":"Adeline Wieczorek","NUMBER":"734-838-1093","EMAIL":"awieczorek@midwaydental.com","POSITION":"Customer Service (Detroit)","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/file/d/0B64pCSDU67THeGpxX0ZveEJYUXM/view?usp=sharing","IMAGE":"awieczorek.png"},
+  {"NAME":"Matthew Kassab","NUMBER":"x3018/x3020","EMAIL":"mkassab88@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THa3hWUDJycTN1RDA","IMAGE":"mkassab.jpg"},
+  {"NAME":"Yesenia Holmes","NUMBER":"248-919-3028","EMAIL":"yesenia@midwaydental.com","POSITION":"Customer Service & Purchasing (Lakeville)","DUTIES":"Expedited Purchasing, Incoming Shipping Questions (Inventory)","BRANCH ":"Lakeville","URL":"https://drive.google.com/open?id=0B64pCSDU67THaUVVSWp0RVY2azQ","IMAGE":"yholmes.jpg"},
+  {"NAME":"Antoinette Stewart","NUMBER":"x3018/x3020","EMAIL":"antoinettestewart973@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THaVBrcEJVZlowa00","IMAGE":"astewart.jpg"},
+  {"NAME":"Mark Lockhart","NUMBER":"248-919-3010","EMAIL":"mlockhart@midwaydental.com","POSITION":"Software & Internal IT","DUTIES":"Computer/Peripheral Support and Procurement, Custom reports, Email Issues and Administration, P21 Issues and Administration, Website Support","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THaXA1RVZIQmFTRDg","IMAGE":"mlockhart.jpg"},
+  {"NAME":"Lisa Bassett","NUMBER":"734-838-1092","EMAIL":"lbassett@midwaydental.com","POSITION":"Customer Service (Detroit)","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THbGhsa3E1QUZROXc","IMAGE":"lbassett.jpg"},
+  {"NAME":"Jim Todd","NUMBER":"x3018/x3020","EMAIL":"jtodd@midwaydental.com","POSITION":"Warehouse Manager","DUTIES":"Incoming/Outgoing Shipping Questions (Receiving), ","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THbmVLc2g1ZDBjZTQ","IMAGE":"jtodd.jpg"},
+  {"NAME":"Kyle Hamm","NUMBER":"312-597-0938","EMAIL":"khamm@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THbmxlbVNleXlzTEk","IMAGE":"khamm.jpg"},
+  {"NAME":"John Saltijeral","NUMBER":"773-571-0341","EMAIL":"jsaltijeral@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THc01SWHFHR2lXcFk","IMAGE":"jsaltijeral.jpg"},
+  {"NAME":"Jermaine Wilson","NUMBER":"x3018/x3020","EMAIL":"jermainewilson11@hotmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THcjhUODVOVXVHWEU","IMAGE":"jwilson.jpg"},
+  {"NAME":"Janice O'Connor","NUMBER":"248-919-3029","EMAIL":"janice@midwaydental.com","POSITION":"Pricing Manager","DUTIES":"Item Maintenance and Pricing, New Item Setup","BRANCH ":"","URL":"https://drive.google.com/open?id=0B64pCSDU67THd0dYaUstcjB3T0E","IMAGE":"joconnor.jpg"},
+  {"NAME":"Tommy Chirillo","NUMBER":"312-597-0899","EMAIL":"tchirillo@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THdE1tZzNETS0wYW8","IMAGE":"tchirillo.jpg"},
+  {"NAME":"Chris Sanford","NUMBER":"614-332-4752","EMAIL":"csanford@midwaydental.com","POSITION":"Columbus Sales","DUTIES":"","BRANCH ":"Columbus","URL":"https://drive.google.com/open?id=0B64pCSDU67THeHNEcGZNeVI1RzA","IMAGE":"csanford.jpg"},
+  {"NAME":"Dylan Wilson","NUMBER":"x3018/x3020","EMAIL":"dylan.wilson@wayne.edu","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THemJzekIyTHRpMjA","IMAGE":"dwilson.jpg"},
+  {"NAME":"Brian Buck","NUMBER":"614-374-1600","EMAIL":"bbuck@midwaydental.com","POSITION":"Columbus Sales","DUTIES":"","BRANCH ":"Columbus","URL":"https://drive.google.com/open?id=0B64pCSDU67THMHdrNXBFcmpnaTg","IMAGE":"bbuck.jpg"},
+  {"NAME":"Tom Kingseed","NUMBER":"317-625-8876","EMAIL":"tomk@midwaydental.com","POSITION":"Indianapolis Sales","DUTIES":"","BRANCH ":"Indianapolis","URL":"https://drive.google.com/open?id=0B64pCSDU67THMHR1VWxKRHpON3c","IMAGE":"tkingseed.jpg"},
+  {"NAME":"Demari Walker","NUMBER":"x3018/x3020","EMAIL":"demariwalker@ymail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THMU03OUp1MnFOZUU","IMAGE":"dwalker.jpg"},
+  {"NAME":"Everett Drake","NUMBER":"317-416-1795","EMAIL":"edrake@midwaydental.com","POSITION":"Indianapolis Service Tech","DUTIES":"","BRANCH ":"Indianapolis","URL":"https://drive.google.com/open?id=0B64pCSDU67THNGlfR3ZPdjV1dGc","IMAGE":"edrake.jpg"},
+  {"NAME":"Jessica Yelda","NUMBER":"248-919-3011","EMAIL":"jyelda@midwaydental.com","POSITION":"Human Resources","DUTIES":"401k Questions, Health Insurance/Benefits Questions, Payroll Questions","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THNXQ2UjE1ZFdpZWs","IMAGE":"jyelda.jpg"},
+  {"NAME":"Steven Kizy","NUMBER":"586-894-3518","EMAIL":"skizy@midwaydental.com","POSITION":"General Manager & Detroit Sales Manager","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THOGgtZkxtakFWclE","IMAGE":"skizy.jpg"},
+  {"NAME":"Miranda Gatie","NUMBER":"248-919-3014","EMAIL":"accounting@midwaydental.com","POSITION":"VP of Administration","DUTIES":"Customer Rebates","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THOGhLMHJTdG54aDQ","IMAGE":"mgatie.jpg"},
+  {"NAME":"Allan Thomas","NUMBER":"614-348-3990","EMAIL":"athomas@midwaydental.com","POSITION":"Columbus Equipment Rep.","DUTIES":"","BRANCH ":"Columbus","URL":"https://drive.google.com/open?id=0B64pCSDU67THOTNTRHZrZWxrbGs","IMAGE":"athomas.png"},
+  {"NAME":"Jessica Prainito","NUMBER":"","EMAIL":"jprainito@midwaydental.com","POSITION":"Graphic Design/Marketing","DUTIES":"Marketing Material Production and Printing","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THQ2N1azFQeW5pOVU","IMAGE":"jprainito.jpg"},
+  {"NAME":"Reshard Stewart","NUMBER":"x3018/x3020","EMAIL":"stewart.rashard97@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THR3ZTVlhVU0cwaVE","IMAGE":"rstewart.jpg"},
+  {"NAME":"Justin Wolff","NUMBER":"574-304-6461","EMAIL":"justinw@midwaydental.com","POSITION":"Lakeville Service Tech","DUTIES":"","BRANCH ":"Lakeville","URL":"https://drive.google.com/open?id=0B64pCSDU67THREo2VjJzSUhaMXc","IMAGE":"jwolff.jpg"},
+  {"NAME":"Roberto Lopez","NUMBER":"248-219-7065 ","EMAIL":"rlopez@midwaydental.com","POSITION":"Detroit Equipment Rep.","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THRGdacUFKQmM0N3c","IMAGE":"rlopez.jpg"},
+  {"NAME":"Jason Kwiatkowski","NUMBER":"574-340-1768","EMAIL":"jason@midwaydental.com","POSITION":"Indianapolis Equipment Rep.","DUTIES":"","BRANCH ":"Indianapolis","URL":"https://drive.google.com/open?id=0B64pCSDU67THRTd5XzJnYk9ONUk","IMAGE":"jkwiatkowski.jpg"},
+  {"NAME":"Kim Mathes","NUMBER":"248-919-4143","EMAIL":"kim@midwaydental.com","POSITION":"Service & Parts Coordinator (Lakeville)","DUTIES":"Parts Purchasing - Indianapolis/Lakeville, Service Coordinator - Indianapolis/Lakeville, Small Equipment & Hand Piece Repairs - Indianapolis/Lakeville","BRANCH ":"Lakeville","URL":"https://drive.google.com/open?id=0B64pCSDU67THRXRndW12LTJ1bU0","IMAGE":"kmathes.jpg"},
+  {"NAME":"Nate Wilson","NUMBER":"419-376-1502","EMAIL":"nwilson@midwaydental.com","POSITION":"Chicago  Sales","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THSGRrVWlvWUZhVk0","IMAGE":"nwilson.jpg"},
+  {"NAME":"Jim Curd","NUMBER":"614-204-7119","EMAIL":"jcurd@midwaydental.com","POSITION":"Columbus Service Tech","DUTIES":"","BRANCH ":"Columbus","URL":"https://drive.google.com/open?id=0B64pCSDU67THSnU0Q1ZYd2I2TzQ","IMAGE":"jcurd.jpg"},
+  {"NAME":"William Brinson","NUMBER":"x3018/x3020","EMAIL":"williambrinson68@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THSVQ1aFJGWVlaOWc","IMAGE":"wbrinson.jpg"},
+  {"NAME":"Luther Mullins","NUMBER":"x3018/x3020","EMAIL":"lumull59@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THT2VVdXQ2MWMweTA","IMAGE":"lmullins.jpg"},
+  {"NAME":"Betsy Lee","NUMBER":"248-388-4980","EMAIL":"blee@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THTmRJalJiMkc5bTg","IMAGE":"blee.jpg"},
+  {"NAME":"Abraham Azar","NUMBER":"x3018/x3020","EMAIL":"abeazar96@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THUFNaMWNoQXVqY1U","IMAGE":"aazar.jpg"},
+  {"NAME":"Carrie Garcia","NUMBER":"248-919-3017","EMAIL":"cgarcia@midwaydental.com","POSITION":"Service & Parts Coordinator (Detroit)","DUTIES":"Parts Purchasing - Detroit, Service Coordinator - Detroit, Small Equipment & Hand Piece Repairs - Detroit","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THUHJYa2NyOWkzU0U","IMAGE":"cgarcia.png"},
+  {"NAME":"Rita Brisentine","NUMBER":"x3018/x3020","EMAIL":"rbrisentine@hotmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THV1Y1TjJsTmRMdVE","IMAGE":"rbrisentine"},
+  {"NAME":"Joann Cacciatore","NUMBER":"630-802-7666","EMAIL":"jcacciatore@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THV2hOMFZlWmdoM1U","IMAGE":"jcacciatore.jpg"},
+  {"NAME":"Randy DeMeester","NUMBER":"574-304-7400","EMAIL":"randyd@midwaydental.com","POSITION":"Lakeville Sales","DUTIES":"","BRANCH ":"Lakeville","URL":"https://drive.google.com/open?id=0B64pCSDU67THVDlwS3BqclZnYnc","IMAGE":"rdemeester.jpg"},
+  {"NAME":"Carrie Bott","NUMBER":"616-292-2189","EMAIL":"cbott@midwaydental.com","POSITION":"Grand Rapids Sales","DUTIES":"","BRANCH ":"Grand Rapids","URL":"https://drive.google.com/open?id=0B64pCSDU67THVGlJUkIydDR3c0U","IMAGE":"cbott.jpeg"},
+  {"NAME":"Ryan Clery","NUMBER":"847-404-5375","EMAIL":"rclery@midwaydental.com","POSITION":"Chicago Equipment Rep.","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THWlRPczZBNG1xbkE","IMAGE":"rclery.jpg"},
+  {"NAME":"Evan Pieczenik","NUMBER":"248-798-3971","EMAIL":"epieczenik@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THX2hWQ016d3ktN3c","IMAGE":"epieczenik.jpg"},
+  {"NAME":"Chetas Mehta","NUMBER":"248-919-3010","EMAIL":"cmehta@midwaydental.com","POSITION":"Software Developer","DUTIES":"Custom reports, OneDrive and Outlook Groups, Sales Force Enhancement and Issues, Training Material Production","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THX3JHTVpIcVV0X0E","IMAGE":"cmehta.jpg"},
+  {"NAME":"Taylor Bowser","NUMBER":"765-437-8383","EMAIL":"taylor@midwaydental.com","POSITION":"Indianapolis Sales","DUTIES":"","BRANCH ":"Indianapolis","URL":"https://drive.google.com/open?id=0B64pCSDU67THY1dTMXpOLVVTYU0","IMAGE":"tbowser.jpg"},
+  {"NAME":"Angela Lyon","NUMBER":"231-392-9775","EMAIL":"alyon@midwaydental.com","POSITION":"Grand Rapids Sales","DUTIES":"","BRANCH ":"Grand Rapids","URL":"https://drive.google.com/open?id=0B64pCSDU67THY1hTZW10cjRFMG8","IMAGE":"alyon.jpg"},
+  {"NAME":"Mark Debono","NUMBER":"x3018/x3020","EMAIL":"majormarkman@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THYVFIdm90bVdiUzg","IMAGE":"mdebono.jpg"},
+  {"NAME":"Sandy Jones","NUMBER":"312-288-1630","EMAIL":"sjones@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THZC1KTjVfSDJRZzQ","IMAGE":"sjones.jpg"},
+  {"NAME":"Nita Wolcott","NUMBER":"248-533-4835","EMAIL":"nwolcott@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"https://drive.google.com/open?id=0B64pCSDU67THZkozWV9KZ2xGRGc","IMAGE":"nwolcott.jpg"},
+  {"NAME":"Alex Lopez","NUMBER":"248-756-2986","EMAIL":"alopez@midwaydental.com","POSITION":"Technology Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Alex Rodriguez","NUMBER":"317-518-1215","EMAIL":"alexr@midwaydental.com","POSITION":"Indianapolis Service Tech","DUTIES":"","BRANCH ":"Indianapolis","URL":"","IMAGE":""},
+  {"NAME":"Ali Al-Shimmary","NUMBER":"734-838-1094","EMAIL":"aal-shimmary@midwaydental.com","POSITION":"Accounting Data Entry ","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Andrea Collins","NUMBER":"248-919-3025","EMAIL":"acollins@midwaydental.com","POSITION":"Customer Service (Detroit)","DUTIES":"Bulk Order Processing, Bulk Order Reports, Customer Service/Sales Rep Assistance","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Bill Smith","NUMBER":"616-293-1460","EMAIL":"bsmith@midwaydental.com","POSITION":"Grand Rapids Equipment Rep.","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Bob Johnson","NUMBER":"248-915-2969","EMAIL":"rjohnson@midwaydental.com","POSITION":"Grand Rapids Service Tech","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Bob Zeller","NUMBER":"815-978-8041","EMAIL":"bzeller@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Bradley Sidelko","NUMBER":"586-676-7195","EMAIL":"bsidelko@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Bruce Henry","NUMBER":"248-912-2201","EMAIL":"bhenry@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Bryon Seelbach","NUMBER":"248-924-8660","EMAIL":"bseelbach@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Cameron Bassett","NUMBER":"x3018/x3020","EMAIL":"cbassett3429@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Carolyn Schmidt","NUMBER":"614-496-8222","EMAIL":"cschmidt@midwaydental.com","POSITION":"Columbus Sales","DUTIES":"","BRANCH ":"Columbus","URL":"","IMAGE":""},
+  {"NAME":"Catherine Brandt","NUMBER":"x3018/x3020","EMAIL":"cathytallent@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Cierra Pappadakis","NUMBER":"","EMAIL":"cpappadakis@midwaydental.com","POSITION":"Executive Assistant","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Cindy Duncan","NUMBER":"810-397-5333","EMAIL":"cduncan@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Crystal Manns","NUMBER":"x3018/x3020","EMAIL":"mannscrystal42@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Curtis Ferber","NUMBER":"231-620-0199","EMAIL":"cferber@midwaydental.com","POSITION":"Grand Rapids Sales","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Dan Joyce","NUMBER":"708-692-4150","EMAIL":"djoyce@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Darlisa Burrell","NUMBER":"x3018/x3020","EMAIL":"darlisaburrell@gmail.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"David Yoakim","NUMBER":"224-848-2988","EMAIL":"dyoakim@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"https://drive.google.com/open?id=0B64pCSDU67THb3B4M0xxcmdkbEE","IMAGE":"dyoakim.jpg"},
+  {"NAME":"Dawn Metcalf","NUMBER":"574-298-7982/ Office number: 248-919-3026","EMAIL":"dawn@midwaydental.com","POSITION":"Lakeville Sales Manager","DUTIES":"Event Sponsorships/Donations","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Dorrell Bonner","NUMBER":"x3018/x3020","EMAIL":"dorrell.bonner@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Doug Broughman","NUMBER":"734-838-1090","EMAIL":"dbroughman@midwaydental.com","POSITION":"Director of Operations","DUTIES":"General Operations","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Gary Sanok","NUMBER":"630-509-4047","EMAIL":"gsanok@midwaydental.com","POSITION":"Branch Operations Manager (Chicago)","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Guy Joseph","NUMBER":"614-980-8008","EMAIL":"gjoseph@midwaydental.com","POSITION":"Columbus Service Tech","DUTIES":"","BRANCH ":"Columbus","URL":"","IMAGE":""},
+  {"NAME":"Holli McNulty","NUMBER":"616-871-1220","EMAIL":"hmcnulty@midwaydental.com","POSITION":"Office Administrator (Grand Rapids)","DUTIES":"Parts Purchasing - Grand Rapids, Service Coordinator - Detroit, Service Coordinator - Grand Rapids, Small Equipment & Hand Piece Repairs - Grand Rapids","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"James Joyce","NUMBER":"708-309-0527","EMAIL":"jjoyce@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Jeff Abigt","NUMBER":"574-532-4775","EMAIL":"jeff@midwaydental.com","POSITION":"Lakeville Equipment Rep.","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Jeff Downer","NUMBER":"269-330-6421","EMAIL":"jeffd@midwaydental.com","POSITION":"Grand Rapids Sales","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Jeff Sieg","NUMBER":"574-532-5198","EMAIL":"jeffsieg@mdiwaydental.com","POSITION":"Lakeville Service Tech","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Jennifer Woods","NUMBER":"248-919-3027","EMAIL":"jennifer@midwaydental.com","POSITION":"Equipment Coordinator","DUTIES":"Equipment Order Processing, Equipment Purchasing","BRANCH ":"","URL":"","IMAGE":""},
+  {"NAME":"Jeromy Buehl","NUMBER":"614-318-5800","EMAIL":"jbuehl@midwaydental.com","POSITION":"Columbus Sales","DUTIES":"","BRANCH ":"Columbus","URL":"","IMAGE":""},
+  {"NAME":"Joe Hannawa","NUMBER":"248-231-3993","EMAIL":"jhannawa@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Joe Ibarra","NUMBER":"248-703-1938","EMAIL":"jibarra@midwaydental.com","POSITION":"Detroit IT","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Joey Pieczenik","NUMBER":"","EMAIL":"jpieczenik@midwaydental.com","POSITION":"Office Assistant (Detroit)","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"John Martin","NUMBER":"260-410-0555","EMAIL":"jmartin@midwaydental.com","POSITION":"Lakeville Equipment Rep.","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Karen Dillingham","NUMBER":"248-919-3815","EMAIL":"kdillingham@midwaydental.com","POSITION":"Controller","DUTIES":"Customer Promotions, Non-Inventory Purchase Requests","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Kathy Towns","NUMBER":"248-919-3015","EMAIL":"ktowns@midwaydental.com","POSITION":"Customer Service (Detroit)","DUTIES":"Customer Service/Sales Rep Assistance, Issue Customer, Return Labels, Item Maintenance and Pricing, New Item Setup, Receive and Distribute Faxes","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Keith Shilling","NUMBER":"248-756-1734","EMAIL":"kshilling@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Kelly Nicholas","NUMBER":"248-919-3021","EMAIL":"knicholas@midwaydental.com","POSITION":"Purchasing/Customer Service Manager","DUTIES":"Customer Service/Sales Rep Assistance, Inventory Purchasing, New Vendor Setup ","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Kevin Morikawa","NUMBER":"313-495-1956","EMAIL":"kmorikawa@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Kim Anderson","NUMBER":"847-219-5911","EMAIL":"kanderson@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Kim Myers","NUMBER":"574-248-8003","EMAIL":"kimm@midwaydental.com","POSITION":"Lakeville Sales","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Kurt McNulty","NUMBER":"616-262-8008","EMAIL":"kmcnulty@midwaydental.com","POSITION":"Grand Rapids Sales","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Kyle Fairfield","NUMBER":"231-670-3356","EMAIL":"kfairfield@midwaydental.com","POSITION":"Grand Rapids Service Tech","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Lois Wise","NUMBER":"630-509-4044","EMAIL":"lwise@midwaydental.com","POSITION":"Customer Service (Chicago)","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Malerie Samona","NUMBER":"248-919-3024","EMAIL":"msamona@midwaydental.com","POSITION":"Accounting","DUTIES":"Expense Reports, Mileage Logs","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Maliek Davis","NUMBER":"x3018/x3020","EMAIL":"maliekjdavis@aol.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Mary Lou Cramer","NUMBER":"248-919-3013","EMAIL":"mcramer@midwaydental.com","POSITION":"Accounts Receivable","DUTIES":"New Customer Setup, Customer Payments/Arrangements","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Matt Oblak","NUMBER":"248-880-9068","EMAIL":"moblak@midwaydental.com","POSITION":"Detroit Equipment Rep.","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Matthew Michalski","NUMBER":"312-597-0896","EMAIL":"mmichalski@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Michelle Jazvac","NUMBER":"248-919-3019","EMAIL":"mjazvac@midwaydental.com","POSITION":"Purchasing","DUTIES":"Inventory Discrepancies, Inventory Stocking Requests, Stock Purchasing","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Morgan Egnater","NUMBER":"248-919-3016","EMAIL":"megnater@midwaydental.com","POSITION":"Customer Service Supervisor (Detroit)","DUTIES":"Buy-Get Reward Setup and Processing, Customer, Service/Sales Rep Assistance, Issue Customer Return Labels, Item Maintenance and Pricing, New Item Setup, Receive and Distribute Faxes, Office Supply Ordersv\n","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Natasha Bakko","NUMBER":"","EMAIL":"nbakko@midwaydental.com","POSITION":"Data Entry","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Nathan Courtney","NUMBER":"317-397-3612","EMAIL":"nathanc@midwaydental.com","POSITION":"Indianapolis Branch Manager","DUTIES":"","BRANCH ":"Indianapolis","URL":"","IMAGE":""},
+  {"NAME":"Nick Paul","NUMBER":"630-673-0539","EMAIL":"npaul@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Patrick Blanc","NUMBER":"734-838-1091","EMAIL":"pblanc@midwaydental.com","POSITION":"VP of Marketing & Special Markets","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Patrick Sherefkin","NUMBER":"248-919-3087","EMAIL":"psherefkin@midwaydental.com","POSITION":"Website & Data Entry","DUTIES":"Customer Contract Pricing, Item Maintenance and Pricing New Item Setup, Price Comparisons/Customer Converisions Hardware/Software Support, Reorder Tags, Sales Data Analysis, Vendor Sales Reporting, Website Shopper Approval and Maintenance","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Paul Currier","NUMBER":"x3018/x3020","EMAIL":"pcurrier@midwaydental.com","POSITION":"Warehouse Manager","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Rachel Vandarwarker","NUMBER":"315-939-0261","EMAIL":"rvandarwarker@midwaydental.com","POSITION":"Director of Sales Administration (Chicago)","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Randy Sanford","NUMBER":"330-618-1587","EMAIL":"rsanford@midwaydental.com","POSITION":"Columbus Sales","DUTIES":"","BRANCH ":"Columbus","URL":"","IMAGE":""},
+  {"NAME":"Randy Smith","NUMBER":"616-401-8537","EMAIL":"rsmith@midwaydental.com","POSITION":"Michigan Service Manager","DUTIES":"","BRANCH ":"Michigan","URL":"","IMAGE":""},
+  {"NAME":"Rashaun Little","NUMBER":"248-919-3012","EMAIL":"rlittle@midwaydental.com","POSITION":"Purchasing Assistant","DUTIES":"Back Order Processing and Follow Up","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Ray Khami","NUMBER":"248-826-0259","EMAIL":"rkhami@refurbdental.com","POSITION":"Detroit Used Equipment Rep.","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Richard Landeck","NUMBER":"630-341-4549","EMAIL":"rlandeck@midwaydental.com","POSITION":"Chicago Sales","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Rick Sidelko","NUMBER":"586-817-4298","EMAIL":"rsidelko@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Roger Shell","NUMBER":"312-597-0893","EMAIL":"rshell@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Sergio Cuevas","NUMBER":"773-573-3591","EMAIL":"scuevas@midwaydental.com","POSITION":"Chicago Service Tech","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Sharon Serowski","NUMBER":"630-509-4046","EMAIL":"sserowski@midwaydental.com","POSITION":"Service & Parts Coordinator (Chicago)","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Sherry Maciejewski","NUMBER":"x3018/x3020","EMAIL":"sherrymaciejewski@yahoo.com","POSITION":"Warehouse","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Simon Battle","NUMBER":"248-755-5472","EMAIL":"sbattle@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Steve (Jr) Poma","NUMBER":"248-444-7323","EMAIL":"spoma@midwaydental.com","POSITION":"Detroit Service Tech","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Steve Mansour","NUMBER":"313-574-9537","EMAIL":"smansour@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Steve Zelsdorf","NUMBER":"630-509-4045","EMAIL":"szelsdorf@midwaydental.com","POSITION":"Customer Service (Chicago)","DUTIES":"","BRANCH ":"Chicago","URL":"","IMAGE":""},
+  {"NAME":"Stuart Pieczenik","NUMBER":"248-225-9430","EMAIL":"spieczenik@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Teresa Mullins","NUMBER":"313-570-1795","EMAIL":"tmullins@midwaydental.com","POSITION":"Detroit Sales","DUTIES":"","BRANCH ":"Detroit","URL":"","IMAGE":""},
+  {"NAME":"Terry Bouck","NUMBER":"231-383-0308","EMAIL":"tbouck@midwaydental.com","POSITION":"Grand Rapids EQ Spec./Service Technician","DUTIES":"","BRANCH ":"Grand Rapids","URL":"","IMAGE":""},
+  {"NAME":"Tim Compton","NUMBER":"614-681-1141","EMAIL":"tcompton@midwaydental.com","POSITION":"Office Administrator (Columbus) ","DUTIES":"Parts Purchasing - Columbus, Service Coordinator - Columbus, Small Equipment & Hand Piece Repairs - Columbus","BRANCH ":"Columbus","URL":"","IMAGE":""},
+  {"NAME":"Tom Kelm","NUMBER":"815-378-2173","EMAIL":"tom@midwaydental.com","POSITION":"Illinois Sales","DUTIES":"","BRANCH ":"Illinois","URL":"","IMAGE":""},
+  {"NAME":"Tony Cornejo","NUMBER":"219-484-1293","EMAIL":"tony@midwaydental.com","POSITION":"Lakeville Sales","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""},
+  {"NAME":"Wes Seaman","NUMBER":"574-261-9219","EMAIL":"wes@midwaydental.com","POSITION":"Lakeville Service Tech","DUTIES":"","BRANCH ":"Lakeville","URL":"","IMAGE":""}]
